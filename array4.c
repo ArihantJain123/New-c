@@ -1,5 +1,6 @@
 #include<stdio.h>
 // c++ code 
+//
 int main()
 {
     int i = 3, *x;
