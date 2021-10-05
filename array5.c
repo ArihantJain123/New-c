@@ -7,7 +7,7 @@ int main()
 
     i = &value[1];
     j = &value[5];
-
+// print array 
     printf("sub of pointer = %d %d ",j-i, *j-*i);
      return 0;
 
