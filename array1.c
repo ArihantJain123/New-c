@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//Hey 
 int main()
 {
     int i,avg,sum=0;
