@@ -1,6 +1,6 @@
 #include<stdio.h>
 // c++ code 
-//new here
+//new here ..
 // hey 
 int main()
 {
